@@ -1,7 +1,6 @@
-widen main picture
-change green and pink
-add hotel info
-change story
-change story images
-change introduction
-change introduction images
+
+-change story
+-change introduction
+-Bio:
+
+Dan grew up in Middletown, NJ. After completing high school, Dan set off to Columbia University in New York City, to pursue an engineering degree. When Dan first met Becca sophomore year through mutual friend, He noted that Becca was funny, introspective, and very cute. However, they did not start seeing each other regularly quite yet. In August 2009, brought to campus

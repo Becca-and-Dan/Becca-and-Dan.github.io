@@ -2,3 +2,13 @@ h1 {
   color: #6f9ad0; }
 h2 {
   color: #6f9ad0; }
+.bx-wrapper img {
+    width: 1400px;
+}
+.bx-wrapper .bx-caption {
+    width: 1400px;
+}
+.bx-viewport ul {
+  margin: 0;
+  padding: 0;
+}

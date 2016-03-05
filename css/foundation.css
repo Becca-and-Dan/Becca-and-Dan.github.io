@@ -4521,7 +4521,7 @@ th.hide-for-touch {
 #headline-wrap{
   max-width: 970px;
   margin:auto;
-	padding: 70px 0 100px;
+	padding: 70px 0 70px;
 } 
 #frames-images{
 	padding-top: 40px;	
@@ -4606,6 +4606,7 @@ th.hide-for-touch {
 .stat-notes{
 	text-align: center;	
 	margin-bottom: 25px;
+	color: #6f9ad0;
 }
 .okc{
   background: url(../img/shaking.png) no-repeat;
@@ -4680,7 +4681,7 @@ th.hide-for-touch {
 	padding-left: 30px;	
 	
 }
-#wedding-party, #registry-wrapper{
+#gallery, #registry-wrapper{
 		padding: 80px 0 0;	
 }
 #our-story{
